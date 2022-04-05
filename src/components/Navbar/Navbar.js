@@ -7,7 +7,7 @@ const Navbar = () => {
     const [open, setOpen] = useState(false);
     const routes = [
         { id: 1, name: 'Home', link: '/home' },
-        { id: 2, name: 'Revews', link: '/revews' },
+        { id: 2, name: 'Reviews', link: '/revews' }, 
         { id: 3, name: 'Dasboard', link: '/dasboard' },
         { id: 4, name: 'Blogs', link: '/blogs' },
         { id: 5, name: 'About', link: '/about' },

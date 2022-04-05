@@ -8,21 +8,38 @@ const Home = () => {
         <div>
             <div className='home'>
                 <div className='text'>
-                    <h1 className='text-6xl '>Your C language larning book.</h1>
-                    <h1 className='text-5xl'>Your C best larning book.</h1>
-                    <p className='text-2xl'>It is C programming book.It was written by Jhanker Mahabub.It is one of the most populer book for Bangladeshi student,who is begginer in C programming.</p>
-                    <button className='btn'>Live Demo</button>
+                    <h1 className='text-6xl '>This is BagShop.</h1>
+                    <h1 className='text-5xl'>Choose your best bag.</h1>
+                    <p className='text-2xl'>It is a virtual shopping Mall.It is developed by me.It is one of the most populer online shop in Bangladesh,what can fulfil your dream.</p>
+                    <button className='btn'>Choose</button>
                 </div>
                 <div className='Image'>
-                    <img src="https://sg-test-11.slatic.net/other/roc/88f9f5a92922ac0871ed9bf832a0a620.jpg" alt="" />
+                    <img src="https://images.asos-media.com/products/asos-design-tote-bag-with-laptop-compartment-in-black/201586722-1-black?$n_480w$&wid=476&fit=constrain" alt="" />
                 </div>
             </div>
             <div>
                 <p className='text-5xl mt-5'>Customer Reviews (3)</p>
                 <div className='grid'>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_gxn45Duq5eYfTgjEYpmcs8rbmXGGudJyPefTfE4uG-BUWHDrausIWpleHx6-OaxaPU&usqp=CAU" alt="" />
-                    <img src="https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/00ea58560_112222.jpg" alt="" />
-                    <img src="https://1.bp.blogspot.com/-iXTnE5XT1dY/XyZAVSmMWHI/AAAAAAAAcL0/2ODQRxz3bDQ56g2cgcGJul3CWMxZKOiSQCLcBGAsYHQ/s1600/Programming%2Ber%2BChouddogoshthi%2Bby%2BJhankar%2BMahbub%2B-%2BPDF%2BBangla%2BProgramming%2BBooks.jpg" alt="" /></div>
+                    <div>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsb5Binv3ZTkcDRcC_WbGYpbS591jDzDuXdg&usqp=CAU" alt="" />
+
+                    <p>Karina Kapur</p>
+                    <p>Lovely Bag, Everyone likes it in my famil.</p>
+                    <p>Rating: 4.5 star</p>
+                    </div>
+                    <div>
+                    <img src="http://reyebags.xyz/images/shop/17668eaa-5486-469a-a973-2120d8d8d88d.jpg" alt="" />
+                    <p>Amina Khatun</p>
+                    <p>Feeling Great. This is my best Bag.</p>
+                    <p>Rating: 5 stars</p>
+                    </div>
+                    <div>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBlmjwW3Pa-HraxW56uDlLR7KGTOYx0gA5lA&usqp=CAU" alt="" />
+                    <p>Jhorna khatun</p>
+                    <p>Loving this Bag. Huge Space.</p>
+                    <p>Rating: 5 stars</p>
+                    </div>
+                    </div>
                 <button className='button'>See All Reviews</button>
             </div>
         </div>

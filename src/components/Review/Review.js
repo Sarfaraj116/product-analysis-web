@@ -8,7 +8,7 @@ const Review = ({ review }) => {
             <img src={img} alt="" />
             <div className='mobile-info'>
                 <h2 className='mobile-name text-6xl'>{name}</h2>
-                <p>Price: $ {price}</p>
+                <p>Comment: {price}</p>
                 <p>Ratting: {Ratting}</p>
             </div>
         </div>
