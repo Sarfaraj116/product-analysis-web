@@ -6,6 +6,7 @@ import { MenuIcon, XIcon } from '@heroicons/react/solid'
 const Navbar = () => {
     const [open, setOpen] = useState(false);
     const routes = [
+        { id: 1, name: '', link: '/' },
         { id: 1, name: 'Home', link: '/home' },
         { id: 2, name: 'Reviews', link: '/revews' }, 
         { id: 3, name: 'Dasboard', link: '/dasboard' },

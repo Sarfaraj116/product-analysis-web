@@ -1,16 +1,13 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# assignment-9
+Github link by[https://github.com/programming-hero-web-course-4/product-analysis-website-Sarfaraj116](https://github.com/programming-hero-web-course-4/product-analysis-website-Sarfaraj116)
+##Live Site link:[https://glowing-muffin-748e3c.netlify.app/home](https://glowing-muffin-748e3c.netlify.app/home)
 
 ## Bullet Points
 
-In the project directory, you can run:
+1. I used react Router to do the Navigation.
+2. I used Tailwind and vanila css to do the project.
+3. Distructuring is important so that i use distructure.
+4. I Created redirect file in the public folder to solve the loading issue.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
